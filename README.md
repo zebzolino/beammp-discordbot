@@ -1,6 +1,6 @@
 # beammp-discordbot
 
-This is a Discord bot that monitors the CPU and RAM usage of a server and displays it as the bot's activity status.
+This is a Discord bot that monitors the CPU and RAM usage of a BeamMP server and displays it as the bot's activity status.
 
 ## Preview
 
