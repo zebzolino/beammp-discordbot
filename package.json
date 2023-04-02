@@ -1,0 +1,16 @@
+{
+  "name": "BeamMP Server Management - DiscordBot",
+  "version": "1.0.0",
+  "description": "This is a Discord bot that monitors the CPU and RAM usage of a BeamMP server and displays it as the bot's activity status.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "discord.js": "^14.9.0"
+  }
+}
